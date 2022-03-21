@@ -1,0 +1,82 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-03-20 18:45+0300\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=4; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
+"%10<=4 && (n%100<12 || n%100>14) ? 1 : n%10==0 || (n%10>=5 && n%10<=9) || (n"
+"%100>=11 && n%100<=14)? 2 : 3);\n"
+
+#: myserver/settings.py:112
+msgid "English"
+msgstr "Английский"
+
+#: myserver/settings.py:113
+msgid "Russian"
+msgstr "Русский"
+
+#: server_base/admin.py:15
+msgid "Some title name"
+msgstr "Русский заголовок"
+
+#: server_base/admin.py:16
+msgid "Some header name"
+msgstr "Русский Хедер"
+
+#: server_base/admin.py:17
+msgid "Some site title name"
+msgstr "Русский заголовок сайта"
+
+#: server_base/models.py:10
+msgid "UserName"
+msgstr "Имя пользователя"
+
+#: server_base/models.py:11 server_base/models.py:17 server_base/models.py:31
+#: server_base/models.py:37
+#, fuzzy
+#| msgid "UserName"
+msgid "User name field"
+msgstr "Имя пользователя"
+
+#: server_base/models.py:16
+msgid "Registration Date"
+msgstr "Дата регистрации"
+
+#: server_base/models.py:23 server_base/models.py:32
+#, fuzzy
+#| msgid "ChatName"
+msgid "ChatUser"
+msgstr "Пользователь"
+
+#: server_base/models.py:24
+#, fuzzy
+#| msgid "ChatName"
+msgid "ChatUsers"
+msgstr "Пользователи"
+
+#: server_base/models.py:36
+msgid "ChatName"
+msgstr "Название чата"
+
+#: server_base/models.py:49
+msgid "ChatBlock"
+msgstr "Чат"
+
+#: server_base/models.py:50
+#, fuzzy
+#| msgid "ChatBlock"
+msgid "ChatBlocks"
+msgstr "Чаты"
